@@ -4,7 +4,6 @@
   "description": "An intergration with Certbot and CoCreateJS.",
   "keywords": [
     "certbot",
-    "chain-functions",
     "cocreate",
     "low-code-framework",
     "no-code-framework",
