@@ -1,7 +1,7 @@
 {
   "name": "@cocreate/certbot",
   "version": "1.0.0",
-  "description": "An intergration with Certbot and CoCreateJS.",
+  "description": "An intergration with Certbot.",
   "keywords": [
     "certbot",
     "cocreate",

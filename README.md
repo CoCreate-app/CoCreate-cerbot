@@ -1,12 +1,12 @@
 # CoCreate-certbot
 
-A convenient chain handler allows user to chain multiple CoCreate components together. When one action is complete next one will start. The sequence goes untill all certbot completed. Grounded on Vanilla javascript, easily configured using HTML5 attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/certbot)
+An intergration with Certbot.
 
 ![minified](https://img.badgesize.io/https://cdn.cocreate.app/certbot/latest/CoCreate-certbot.min.js?style=flat-square&label=minified&color=orange)
 ![gzip](https://img.badgesize.io/https://cdn.cocreate.app/certbot/latest/CoCreate-certbot.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
 ![brotli](https://img.badgesize.io/https://cdn.cocreate.app/certbot/latest/CoCreate-certbot.min.js?compression=brotli&style=flat-square&label=brotli)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-action?style=flat-square)
-![License](https://img.shields.io/github/license/CoCreate-app/CoCreate-action?style=flat-square)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-certbot?style=flat-square)
+![License](https://img.shields.io/github/license/CoCreate-app/CoCreate-certbot?style=flat-square)
 ![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-certbot](https://cdn.cocreate.app/docs/CoCreate-certbot.gif)
